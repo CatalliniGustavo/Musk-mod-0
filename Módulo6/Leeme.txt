@@ -1,0 +1,1 @@
+versión del interprete de Python: Python 3.10.5 (.venv)
